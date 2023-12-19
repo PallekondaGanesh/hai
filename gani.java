@@ -3,4 +3,13 @@ class gani{
         
         System.out.println("hello world");
     }
+
+
+int = x;
+int = y;
+System.out.print(x+y)
+
+
+
+
 }
